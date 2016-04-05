@@ -1,3 +1,0 @@
-Oanda Practice Account:
-AccountId - 7039339
-Access Token - 35dc4b247f09da68bf5e23efe6aded06-160d89614196f5f2b5266f5056cd490c
